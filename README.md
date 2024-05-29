@@ -32,4 +32,4 @@ Eager to fully engage in the tech and networking sphere, leveraging my expertise
 
 <a href="http://www.github.com/Riddhilalla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhilalla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhilalla&show_icons=true&locale=en&layout=compact" alt="riddhilalla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhilalla&show_icons=true&stroke=ffffff&background=1c1917&locale=en&layout=compact" alt="riddhilalla" /></p>
