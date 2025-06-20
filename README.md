@@ -1,5 +1,8 @@
-Hi 👋 I'm Riddhi Lalla
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riddhi Lalla
+====================================================================================================================================
+
 Web Developer • Designer • AI-ML Enthusiast
+
 Eager to immerse myself in the tech and networking space by leveraging hands-on experience in software engineering, full-stack development, and AI/ML. Constantly seeking meaningful collaborations, growth opportunities, and chances to innovate through impactful tech solutions.
 
 🌍  I'm based in Navi Mumbai, Maharashtra
